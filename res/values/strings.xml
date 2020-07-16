@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Weigth">WEIGHT</string>
+    <string name="Height">HEIGHT</string>
+    <string name="Button">CALCULATE</string>
+    <string name="very_under_weight">Very  under weight</string>
+    <string name="under_weight"> under weight</string>
+    <string name="normal_condition">NORMAL</string>
+
+</resources>
